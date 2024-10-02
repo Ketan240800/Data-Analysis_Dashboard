@@ -6,7 +6,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dataset Used 
 
-- <a heref="https://github.com/Ketan240800/Data-Analysis_Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset </a>
+- <a hreff="https://github.com/Ketan240800/Data-Analysis_Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset </a>
 
 ## Questions (KPIs)
 
@@ -26,6 +26,30 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 -Highest selling category?
 
--Percentage of Total Orders delivered
+-Percentage of Total Orders delivered.
+
+
+# Process
+
+-Verify data for any missing values and anomalies, and sort out the same.
+
+-Made sure data is consistent and clean with respect to data type, data format and values used.
+
+-Created pivot tables according to the questions asked.
+
+-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+- Dashboard Interaction <a href="https://github.com/Ketan240800/Data-Analysis_Dashboard/blob/main/Screenshot%202024-10-02%20191452.png">view Dashboard</a>
+
+
+
+
+
+
+
+
+
 
 
